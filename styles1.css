@@ -1,0 +1,27 @@
+.warning {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+h1 { color: green;
+   padding: 20px;
+margin-left: 25%;
+font-size: 300%;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+p {font-size: 120%; 
+   color: black;
+   text-align: center;
+   font-weight: italic;}
+a:link {
+  color: red;
+background-color: yellow;}
+.special {
+  color: orange;
+  font-weight: bold;
+}
